@@ -1,0 +1,9 @@
+{
+  "build": {
+    "srcfiles": ["./lib/**/**/*.js","./lib/**/*.js","./lib/*.js"],
+    "testfiles": ["./test/**/*.js"],
+    "allfiles": ["./lib/**/*.js", "./lib/*.js", "./test/**/*.js", "gulpfile.js"],
+    "nodefile": "./lib/app.js",
+    "buildpath": "./build/"
+  }
+}

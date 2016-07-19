@@ -1,0 +1,28 @@
+{
+  "name": "bonus-reports-api",
+  "version": "3.0.1",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node lib/app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^1.5.2",
+    "basic-auth": "^1.0.3",
+    "express": "^4.13.4",
+    "gulp": "^3.9.1",
+    "gulp-jshint": "^2.0.0",
+    "gulp-mocha": "^2.2.0",
+    "jshint": "^2.9.1",
+    "mongodb": "^2.1.7",
+    "nconf": "^0.8.4",
+    "request": "^2.69.0",
+    "winston": "^2.1.1"
+  }
+}

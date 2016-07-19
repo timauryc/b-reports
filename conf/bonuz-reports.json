@@ -1,0 +1,13 @@
+{
+	"PORT": 3000,
+	"LOG": {
+		"LEVEL": "info",
+		"FILENAME": "general-file"
+	},
+	"MONGODB": {
+		"connectionStringBonuz": "",
+		"connectionStringVoucher": "",
+		"connectionStringEngageRefactor": "",
+		"connectionStringAccount": ""
+	}
+}

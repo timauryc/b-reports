@@ -1,0 +1,20 @@
+CONTENTS OF THIS FILE
+---------------------
+   
+ * Introduction
+ * Maintainers
+
+
+ INTRODUCTION
+------------
+
+The main objetive of bonuz-reports microservice is to stablish a communication bridge between a client app and the bonuz database in order to retrieve information for statistical purposes.
+
+
+MAINTAINERS
+-----------
+
+Current maintainers:
+ * Carlos Timaury - carlos.timaury@minutrade.com
+
+
